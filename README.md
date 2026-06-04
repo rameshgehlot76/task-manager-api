@@ -6,6 +6,7 @@
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-ORM-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-API-00C853?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-00C853?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-Tested-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 
 A clean, production-ready RESTful API for task management built with Flask and SQLAlchemy. Supports full CRUD operations — Create, Read, Update, and Delete tasks — with proper HTTP status codes, error handling, and JSON responses.
 
