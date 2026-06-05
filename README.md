@@ -37,7 +37,7 @@ A clean, production-ready RESTful API for task management built with Flask and S
 
 ---
 
-## 📋 API Endpoints
+## 📋 API Endpoints 
 
 | Method | Endpoint | Description | Status Code |
 |---|---|---|---|
@@ -49,7 +49,7 @@ A clean, production-ready RESTful API for task management built with Flask and S
 
 ---
 
-## 🚀 Run Locally
+## 🚀 Run Locally 
 
 ### 1. Clone the repo
 ```bash
