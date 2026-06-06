@@ -1,4 +1,4 @@
-# ⚡ Task Manager REST API
+# ⚡ Task Manager REST API.  
 
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-3.0-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -8,7 +8,7 @@
 ![Status](https://img.shields.io/badge/Status-Active-00C853?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-Tested-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
 
-A clean, production-ready RESTful API for task management built with Flask and SQLAlchemy. Supports full CRUD operations — Create, Read, Update, and Delete tasks — with proper HTTP status codes, error handling, and JSON responses.
+A clean, production-ready RESTful API for task management built with Flask and SQLAlchemy. Supports full CRUD operations — Create, Read, Update, and Delete tasks — with proper HTTP status codes, error handling, and JSON responses.  
 
 ---
 
