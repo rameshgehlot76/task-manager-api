@@ -24,7 +24,7 @@ A clean, production-ready RESTful API for task management built with Flask and S
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack 
 
 | Layer | Technology |
 |---|---|
