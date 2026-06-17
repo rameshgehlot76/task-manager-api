@@ -74,7 +74,6 @@ def delete_task(task_id):
     db.session.commit()
     return jsonify({'message': f'Task {task_id} deleted successfully'}), 200
 
-
     
     
     
