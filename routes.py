@@ -21,7 +21,7 @@ def get_task(task_id):
     return jsonify(task.to_dict()), 200 
 
 
-# POST create task  
+# POST create task
 @task_bp.route('/tasks', methods=['POST'])
 def create_task():
     data = request.get_json()
