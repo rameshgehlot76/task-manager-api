@@ -12,7 +12,7 @@ def get_tasks():
     return jsonify([t.to_dict() for t in tasks]), 200 
 
 
-# GET single task 
+# GET single task
 @task_bp.route('/tasks/<int:task_id>', methods=['GET'])
 def get_task(task_id):
     task = Task.query.get(task_id)
