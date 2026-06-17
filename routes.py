@@ -38,7 +38,7 @@ def create_task():
     return jsonify(task.to_dict()), 201
 
 
-# PUT update task 
+# PUT update task
 @task_bp.route('/tasks/<int:task_id>', methods=['PUT'])  
 def update_task(task_id):
     task = Task.query.get(task_id)
