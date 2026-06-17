@@ -5,7 +5,7 @@ from models import Task
 task_bp = Blueprint('tasks', __name__) 
 
 
-# GET all tasks 
+# GET all tasks
 @task_bp.route('/tasks', methods=['GET']) 
 def get_tasks():
     tasks = Task.query.all()
