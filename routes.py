@@ -63,7 +63,7 @@ def update_task(task_id):
     return jsonify(task.to_dict()), 200 
 
 
-# DELETE task
+# DELETE delete task
 @task_bp.route('/tasks/<int:task_id>', methods=['DELETE']) 
 def delete_task(task_id):
     task = Task.query.get(task_id)
