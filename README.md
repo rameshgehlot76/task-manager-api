@@ -196,4 +196,6 @@ task-manager-api/
 
 ---
 
+Built with dedication 🚀
+
 > ⭐ If you found this useful, consider starring the repo!
