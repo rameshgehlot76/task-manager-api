@@ -192,7 +192,7 @@ task-manager-api/
 ## 👨‍💻 Author
 
 **Ramesh**
-- GitHub: [@rameshgehlot76](https://github.com/rameshgehlot76)
+[![GitHub](https://img.shields.io/badge/GitHub-rameshgehlot76-181717?style=flat&logo=github)](https://github.com/rameshgehlot76)
 
 ---
 
